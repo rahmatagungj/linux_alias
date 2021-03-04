@@ -1,0 +1,2 @@
+alias netcut='sudo evillimiter'
+alias getdevicename='sudo nmap -sP'
